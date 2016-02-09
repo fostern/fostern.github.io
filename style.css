@@ -1,0 +1,25 @@
+body {
+	font-family: georgia;
+	background-image: url(http://www.designbolts.com/wp-content/uploads/2014/03/Blue-Blur-Background1.jpg);
+	text-align: center;
+	background-size: cover;
+}
+
+h1 {
+}
+
+h2 {
+}
+
+p {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.date {
+	font-style: italic;
+}
+
+.top {
+	padding-top: 1cm;
+}
