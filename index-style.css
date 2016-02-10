@@ -1,6 +1,11 @@
 body {
+	background-image: none;
 }
 
 button {
+	text-align: center;
+}
+
+.circle {
 	text-align: center;
 }
