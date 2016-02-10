@@ -1,11 +1,7 @@
 body {
-	background-image: none;
-}
-
-button {
-	text-align: center;
+	/*background-image: none;*/
 }
 
 .circle {
-	text-align: center;
+	border-radius: 100%;
 }
