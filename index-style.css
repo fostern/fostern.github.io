@@ -2,6 +2,8 @@ body {
 	/*background-image: none;*/
 }
 
-.circle {
+#cover-photo {
+	height:320;
+	width:320;
 	border-radius: 100%;
 }
